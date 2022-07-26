@@ -4,7 +4,7 @@
 
 Subfolder: 
 
-_training_data_sample_
+1. _training_data_sample_
 
 
 includes 2 example snapshots of the training data (square lattice 32*24), the first 8 columns are used in training, they are x, y, spin_x, spin_y, spin_z, force_x, force_y, force_z. The spin components are used to generate features to predict the force components.
