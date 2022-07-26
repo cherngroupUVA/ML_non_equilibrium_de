@@ -16,3 +16,11 @@ includes sample files to train the model, run:
 python train.py
 ```
 to initiate the training process.
+
+3. _simulation_code_
+
+includes codes for using ML model driving the simulation. First step is to compile the binary in the folder de_c_pure, this binary is used as the helper to update the spin. Then run 
+```
+python main.py
+```
+to trigger the simulation, the screenshot of each step will be recorded.
