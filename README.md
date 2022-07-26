@@ -1,6 +1,7 @@
 # ML_non_equilibrium_de
 <img width="400" alt="截屏2022-07-25 下午5 48 21" src="https://user-images.githubusercontent.com/32048073/180898968-e2482e35-daa2-4df9-ad0c-cb6659a071a1.png">
 
+This repo includes codes and samples of data to train ML model for non-equalibrium double exchange simulation. The method is published in the paper: https://arxiv.org/abs/2112.12124
 
 Subfolder: 
 
